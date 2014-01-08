@@ -3,7 +3,7 @@ import java.util.Comparator;
 /**
  * Defines a playing board for the n-queens problem
  * 
- * @author Cooper
+ * @author Cooper Riley
  * 
  */
 public class Board {
